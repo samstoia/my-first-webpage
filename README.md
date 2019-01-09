@@ -7,6 +7,7 @@ This is the first website I made while studying at Epicodus.  It was my first ti
 
 ## Technologies used
 HTML
+CSS
 
 ## Legal
 This software is licensed under the MIT license
